@@ -1,6 +1,6 @@
 # SplitCorrect - Expense Splitting Application
 
-A modern expense splitting application built with .NET 8 and React, similar to Splitwise. Split expenses with friends, track balances, and settle debts easily.
+A modern expense splitting application built with C# .NET 8 and React. Split expenses with friends, track balances, and settle debts easily.
 
 ## Features
 
